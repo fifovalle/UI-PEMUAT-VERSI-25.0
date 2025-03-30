@@ -60,6 +60,7 @@ body {
     position: absolute;
     bottom: 0;
 }
+
 .banTruk svg {
     width: 24px;
 }
@@ -73,6 +74,7 @@ body {
     align-self: flex-end;
     border-radius: 3px;
 }
+
 .jalan::before {
     content: "";
     position: absolute;
@@ -84,6 +86,7 @@ body {
     animation: animasiJalan 1.4s linear infinite;
     border-left: 10px solid white;
 }
+
 .jalan::after {
     content: "";
     position: absolute;
